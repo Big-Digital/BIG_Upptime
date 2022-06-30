@@ -3,14 +3,14 @@ owner: big-digital # Your GitHub organization or username, where this repository
 repo: BIG_Upptime # The name of this repository
 
 sites:
-  - name: Google Test
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Big Digital Website
+    url: https://bigdigital.ca
+  - name: Home Hardware API
+    url: https://homehardware.bigdigital.ca/collections
+  - name: Home Hardware App
+    url: https://app.homehardware.bigdigital.ca/content
+  - name: Kia Bessada APp
+    url: https://app.kia-bessada.bigdigital.ca
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
