@@ -40,18 +40,20 @@
     "url": "https://staging.demo.bigdigital.ca/real-time-emergency-messaging",
     "icon": "https://favicons.githubusercontent.com/staging.demo.bigdigital.ca",
     "slug": "event-sector-app",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 49,
-    "timeWeek": 104,
-    "timeMonth": 104,
-    "timeYear": 104,
-    "dailyMinutesDown": {}
+    "time": 125,
+    "timeDay": 120,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
+    "dailyMinutesDown": {
+      "2022-07-13": 0
+    }
   },
   {
     "name": "Home Hardware API",
@@ -142,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-13": 18,
+      "2022-07-13": 1158,
       "2022-07-12": 1440,
       "2022-07-11": 328
     }
