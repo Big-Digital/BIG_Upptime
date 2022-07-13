@@ -40,19 +40,19 @@
     "url": "https://staging.demo.bigdigital.ca/real-time-emergency-messaging",
     "icon": "https://favicons.githubusercontent.com/staging.demo.bigdigital.ca",
     "slug": "event-sector-app",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 120,
-    "timeWeek": 125,
-    "timeMonth": 125,
-    "timeYear": 125,
+    "status": "up",
+    "uptime": "99.76%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.76%",
+    "uptimeYear": "99.76%",
+    "time": 150,
+    "timeDay": 163,
+    "timeWeek": 150,
+    "timeMonth": 150,
+    "timeYear": 150,
     "dailyMinutesDown": {
-      "2022-07-13": 0
+      "2022-07-13": 7
     }
   },
   {
@@ -144,7 +144,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-07-13": 1158,
+      "2022-07-13": 1165,
       "2022-07-12": 1440,
       "2022-07-11": 328
     }
