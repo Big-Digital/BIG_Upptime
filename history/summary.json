@@ -4,9 +4,9 @@
     "url": "https://bigdigital.ca",
     "icon": "https://icons.duckduckgo.com/ip3/bigdigital.ca.ico",
     "slug": "big-digital-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 817,
     "timeMonth": 1003,
     "timeYear": 1049,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-13": 0
+    }
   },
   {
     "name": "Event Sector API",
@@ -146,7 +148,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-10-13": 22,
+      "2022-10-13": 299,
       "2022-10-12": 1440,
       "2022-10-11": 1440,
       "2022-10-10": 1440,
