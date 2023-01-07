@@ -4,9 +4,9 @@
     "url": "https://bigdigital.ca",
     "icon": "https://icons.duckduckgo.com/ip3/bigdigital.ca.ico",
     "slug": "big-digital-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 1139,
     "timeYear": 1104,
     "dailyMinutesDown": {
+      "2023-01-07": 0,
       "2022-10-13": 33
     }
   },
@@ -45,11 +46,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/staging.demo.bigdigital.ca.ico",
     "slug": "event-sector-app",
     "status": "down",
-    "uptime": "99.84%",
+    "uptime": "99.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.84%",
+    "uptimeYear": "99.85%",
     "time": 178,
     "timeDay": 0,
     "timeWeek": 0,
@@ -148,7 +149,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-01-07": 14,
+      "2023-01-07": 366,
       "2023-01-06": 1440,
       "2023-01-05": 1440,
       "2023-01-04": 1440,
