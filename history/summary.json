@@ -4,9 +4,9 @@
     "url": "https://bigdigital.ca",
     "icon": "https://icons.duckduckgo.com/ip3/bigdigital.ca.ico",
     "slug": "big-digital-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 1104,
     "timeYear": 1102,
     "dailyMinutesDown": {
+      "2023-02-09": 0,
       "2022-10-13": 33
     }
   },
@@ -150,7 +151,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-02-09": 15,
+      "2023-02-09": 285,
       "2023-02-08": 1440,
       "2023-02-07": 1440,
       "2023-02-06": 1440,
