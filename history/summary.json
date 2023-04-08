@@ -69,10 +69,10 @@
     "url": "https://homehardware.bigdigital.ca/collections",
     "icon": "https://icons.duckduckgo.com/ip3/homehardware.bigdigital.ca.ico",
     "slug": "home-hardware-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 200,
@@ -80,7 +80,9 @@
     "timeWeek": 178,
     "timeMonth": 203,
     "timeYear": 200,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-08": 1
+    }
   },
   {
     "name": "Home Hardware App",
@@ -153,7 +155,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-04-08": 13,
+      "2023-04-08": 57,
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
