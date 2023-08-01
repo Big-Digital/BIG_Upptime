@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
-    "time": 869,
-    "timeDay": 252,
-    "timeWeek": 274,
+    "time": 867,
+    "timeDay": 190,
+    "timeWeek": 227,
     "timeMonth": 324,
-    "timeYear": 857,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2023-03-27": 806,
       "2023-03-26": 1440,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 214,
-    "timeDay": 111,
-    "timeWeek": 205,
+    "timeDay": 119,
+    "timeWeek": 183,
     "timeMonth": 201,
-    "timeYear": 213,
+    "timeYear": 212,
     "dailyMinutesDown": {
       "2023-01-27": 1187,
       "2023-01-26": 472,
@@ -59,7 +59,7 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 124,
+    "timeYear": 142,
     "dailyMinutesDown": {
       "2022-08-05": 400
     }
@@ -77,9 +77,9 @@
     "uptimeYear": "99.99%",
     "time": 203,
     "timeDay": 113,
-    "timeWeek": 165,
+    "timeWeek": 142,
     "timeMonth": 188,
-    "timeYear": 203,
+    "timeYear": 202,
     "dailyMinutesDown": {
       "2023-04-08": 30
     }
@@ -96,8 +96,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 112,
-    "timeWeek": 158,
+    "timeDay": 100,
+    "timeWeek": 134,
     "timeMonth": 169,
     "timeYear": 181,
     "dailyMinutesDown": {}
@@ -114,10 +114,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 193,
-    "timeDay": 114,
-    "timeWeek": 169,
+    "timeDay": 102,
+    "timeWeek": 145,
     "timeMonth": 180,
-    "timeYear": 193,
+    "timeYear": 192,
     "dailyMinutesDown": {}
   },
   {
@@ -132,9 +132,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 181,
-    "timeWeek": 175,
-    "timeMonth": 175,
+    "timeDay": 116,
+    "timeWeek": 153,
+    "timeMonth": 176,
     "timeYear": 184,
     "dailyMinutesDown": {}
   },
@@ -155,7 +155,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-07-31": 15,
+      "2023-08-01": 17,
+      "2023-07-31": 1440,
       "2023-07-30": 1440,
       "2023-07-29": 1440,
       "2023-07-28": 1440,
@@ -518,8 +519,7 @@
       "2022-08-05": 1440,
       "2022-08-04": 1440,
       "2022-08-03": 1440,
-      "2022-08-02": 1440,
-      "2022-08-01": 1440
+      "2022-08-02": 1440
     }
   }
 ]
