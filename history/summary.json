@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/bigdigital.ca.ico",
     "slug": "big-digital-website",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.31%",
-    "time": 813,
-    "timeDay": 571,
-    "timeWeek": 384,
-    "timeMonth": 352,
+    "time": 812,
+    "timeDay": 530,
+    "timeWeek": 398,
+    "timeMonth": 350,
     "timeYear": 762,
     "dailyMinutesDown": {
       "2023-03-27": 806,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 214,
-    "timeDay": 262,
+    "timeDay": 218,
     "timeWeek": 204,
-    "timeMonth": 197,
+    "timeMonth": 194,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2023-01-27": 1187,
@@ -74,9 +74,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 202,
-    "timeDay": 259,
-    "timeWeek": 190,
-    "timeMonth": 189,
+    "timeDay": 218,
+    "timeWeek": 191,
+    "timeMonth": 186,
     "timeYear": 203,
     "dailyMinutesDown": {
       "2023-04-08": 30
@@ -94,9 +94,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 183,
-    "timeDay": 256,
-    "timeWeek": 186,
-    "timeMonth": 182,
+    "timeDay": 233,
+    "timeWeek": 188,
+    "timeMonth": 181,
     "timeYear": 182,
     "dailyMinutesDown": {}
   },
@@ -112,9 +112,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 194,
-    "timeDay": 530,
-    "timeWeek": 239,
-    "timeMonth": 195,
+    "timeDay": 236,
+    "timeWeek": 245,
+    "timeMonth": 193,
     "timeYear": 195,
     "dailyMinutesDown": {}
   },
@@ -130,9 +130,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 278,
-    "timeWeek": 187,
-    "timeMonth": 178,
+    "timeDay": 202,
+    "timeWeek": 184,
+    "timeMonth": 176,
     "timeYear": 185,
     "dailyMinutesDown": {}
   },
@@ -153,7 +153,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-09-21": 13,
+      "2023-09-22": 13,
+      "2023-09-21": 1440,
       "2023-09-20": 1440,
       "2023-09-19": 1440,
       "2023-09-18": 1440,
@@ -516,8 +517,7 @@
       "2022-09-26": 1440,
       "2022-09-25": 1440,
       "2022-09-24": 1440,
-      "2022-09-23": 1440,
-      "2022-09-22": 1440
+      "2022-09-23": 1440
     }
   }
 ]
