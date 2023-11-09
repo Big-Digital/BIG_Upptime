@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.32%",
-    "time": 748,
-    "timeDay": 254,
-    "timeWeek": 400,
-    "timeMonth": 309,
-    "timeYear": 664,
+    "time": 747,
+    "timeDay": 141,
+    "timeWeek": 341,
+    "timeMonth": 308,
+    "timeYear": 661,
     "dailyMinutesDown": {
       "2023-03-27": 806,
       "2023-03-26": 1440,
@@ -33,9 +33,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.68%",
     "time": 211,
-    "timeDay": 205,
-    "timeWeek": 222,
-    "timeMonth": 182,
+    "timeDay": 81,
+    "timeWeek": 194,
+    "timeMonth": 181,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2023-01-27": 1187,
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 200,
-    "timeDay": 215,
-    "timeWeek": 203,
+    "time": 199,
+    "timeDay": 101,
+    "timeWeek": 181,
     "timeMonth": 166,
-    "timeYear": 199,
+    "timeYear": 198,
     "dailyMinutesDown": {
       "2023-04-08": 30
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 256,
-    "timeWeek": 207,
-    "timeMonth": 266,
-    "timeYear": 191,
+    "time": 188,
+    "timeDay": 74,
+    "timeWeek": 179,
+    "timeMonth": 161,
+    "timeYear": 190,
     "dailyMinutesDown": {}
   },
   {
@@ -110,8 +110,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 192,
-    "timeDay": 182,
-    "timeWeek": 205,
+    "timeDay": 113,
+    "timeWeek": 184,
     "timeMonth": 166,
     "timeYear": 193,
     "dailyMinutesDown": {}
@@ -128,10 +128,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 182,
-    "timeDay": 182,
-    "timeWeek": 199,
+    "timeDay": 93,
+    "timeWeek": 174,
     "timeMonth": 155,
-    "timeYear": 184,
+    "timeYear": 183,
     "dailyMinutesDown": {}
   },
   {
@@ -151,7 +151,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-11-08": 14,
+      "2023-11-09": 13,
+      "2023-11-08": 1440,
       "2023-11-07": 1440,
       "2023-11-06": 1440,
       "2023-11-05": 1440,
@@ -514,8 +515,7 @@
       "2022-11-13": 1440,
       "2022-11-12": 1440,
       "2022-11-11": 1440,
-      "2022-11-10": 1440,
-      "2022-11-09": 1440
+      "2022-11-10": 1440
     }
   }
 ]
