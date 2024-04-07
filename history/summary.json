@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 747,
-    "timeDay": 181,
-    "timeWeek": 956,
-    "timeMonth": 1081,
-    "timeYear": 672,
+    "time": 748,
+    "timeDay": 1482,
+    "timeWeek": 1002,
+    "timeMonth": 1087,
+    "timeYear": 675,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.bigdigital.ca.ico",
     "slug": "event-sector-api",
     "status": "down",
-    "uptime": "89.54%",
+    "uptime": "89.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.14%",
-    "time": 196,
-    "timeDay": 118,
+    "uptimeYear": "81.87%",
+    "time": 195,
+    "timeDay": 94,
     "timeWeek": 152,
-    "timeMonth": 155,
+    "timeMonth": 149,
     "timeYear": 191,
     "dailyMinutesDown": {
-      "2024-04-06": 13,
+      "2024-04-07": 16,
+      "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -132,14 +133,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 183,
-    "timeDay": 131,
-    "timeWeek": 147,
-    "timeMonth": 142,
+    "time": 182,
+    "timeDay": 104,
+    "timeWeek": 148,
+    "timeMonth": 137,
     "timeYear": 178,
-    "dailyMinutesDown": {
-      "2023-04-08": 30
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Home Hardware App",
@@ -152,11 +151,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 96,
-    "timeWeek": 145,
-    "timeMonth": 136,
-    "timeYear": 173,
+    "time": 176,
+    "timeDay": 126,
+    "timeWeek": 150,
+    "timeMonth": 132,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -171,9 +170,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 179,
-    "timeDay": 135,
-    "timeWeek": 146,
-    "timeMonth": 141,
+    "timeDay": 115,
+    "timeWeek": 148,
+    "timeMonth": 136,
     "timeYear": 173,
     "dailyMinutesDown": {}
   },
@@ -188,10 +187,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 170,
-    "timeDay": 107,
-    "timeWeek": 140,
-    "timeMonth": 139,
+    "time": 169,
+    "timeDay": 118,
+    "timeWeek": 144,
+    "timeMonth": 134,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -212,7 +211,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-04-06": 14,
+      "2024-04-07": 16,
+      "2024-04-06": 1440,
       "2024-04-05": 1440,
       "2024-04-04": 1440,
       "2024-04-03": 1440,
@@ -575,8 +575,7 @@
       "2023-04-12": 1440,
       "2023-04-11": 1440,
       "2023-04-10": 1440,
-      "2023-04-09": 1440,
-      "2023-04-08": 1440
+      "2023-04-09": 1440
     }
   }
 ]
