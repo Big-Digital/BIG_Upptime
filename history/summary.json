@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.84%",
-    "time": 796,
-    "timeDay": 815,
-    "timeWeek": 1097,
-    "timeMonth": 1200,
-    "timeYear": 941,
+    "time": 797,
+    "timeDay": 980,
+    "timeWeek": 997,
+    "timeMonth": 1205,
+    "timeYear": 943,
     "dailyMinutesDown": {
       "2024-04-10": 854
     }
@@ -25,18 +25,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.bigdigital.ca.ico",
     "slug": "event-sector-api",
     "status": "down",
-    "uptime": "75.70%",
+    "uptime": "75.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.36%",
+    "uptimeYear": "50.09%",
     "time": 186,
-    "timeDay": 142,
-    "timeWeek": 175,
+    "timeDay": 99,
+    "timeWeek": 141,
     "timeMonth": 172,
     "timeYear": 172,
     "dailyMinutesDown": {
-      "2024-07-31": 13,
+      "2024-08-01": 18,
+      "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -251,9 +252,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 176,
-    "timeDay": 134,
-    "timeWeek": 170,
-    "timeMonth": 170,
+    "timeDay": 110,
+    "timeWeek": 141,
+    "timeMonth": 169,
     "timeYear": 163,
     "dailyMinutesDown": {}
   },
@@ -269,9 +270,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 169,
-    "timeDay": 118,
-    "timeWeek": 168,
-    "timeMonth": 168,
+    "timeDay": 128,
+    "timeWeek": 146,
+    "timeMonth": 169,
     "timeYear": 164,
     "dailyMinutesDown": {}
   },
@@ -287,8 +288,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 144,
-    "timeWeek": 182,
+    "timeDay": 103,
+    "timeWeek": 152,
     "timeMonth": 174,
     "timeYear": 163,
     "dailyMinutesDown": {}
@@ -305,8 +306,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 161,
-    "timeDay": 118,
-    "timeWeek": 163,
+    "timeDay": 133,
+    "timeWeek": 136,
     "timeMonth": 162,
     "timeYear": 153,
     "dailyMinutesDown": {}
@@ -328,7 +329,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-07-31": 13,
+      "2024-08-01": 18,
+      "2024-07-31": 1440,
       "2024-07-30": 1440,
       "2024-07-29": 1440,
       "2024-07-28": 1440,
@@ -691,8 +693,7 @@
       "2023-08-06": 1440,
       "2023-08-05": 1440,
       "2023-08-04": 1440,
-      "2023-08-03": 1440,
-      "2023-08-02": 1440
+      "2023-08-03": 1440
     }
   }
 ]
