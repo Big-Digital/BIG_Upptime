@@ -30,14 +30,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.54%",
+    "uptimeYear": "35.52%",
     "time": 179,
     "timeDay": 131,
     "timeWeek": 146,
     "timeMonth": 159,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2024-09-23": 152,
+      "2024-09-23": 252,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
@@ -300,18 +300,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/homehardware.bigdigital.ca.ico",
     "slug": "home-hardware-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.99%",
+    "uptimeDay": "93.03%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.98%",
     "time": 169,
     "timeDay": 208,
     "timeWeek": 165,
     "timeMonth": 163,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-09-23": 0
+      "2024-09-23": 100
     }
   },
   {
@@ -337,18 +337,20 @@
     "url": "https://kia-bessada.bigdigital.ca/collections",
     "icon": "https://icons.duckduckgo.com/ip3/kia-bessada.bigdigital.ca.ico",
     "slug": "kia-bessada-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 168,
-    "timeDay": 114,
-    "timeWeek": 145,
-    "timeMonth": 157,
+    "timeDay": 113,
+    "timeWeek": 141,
+    "timeMonth": 156,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-23": 0
+    }
   },
   {
     "name": "Kia Bessada App",
@@ -385,7 +387,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-23": 152,
+      "2024-09-23": 252,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
