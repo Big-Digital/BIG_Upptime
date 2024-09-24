@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
-    "time": 894,
-    "timeDay": 850,
-    "timeWeek": 972,
-    "timeMonth": 1127,
-    "timeYear": 1065,
+    "time": 895,
+    "timeDay": 1333,
+    "timeWeek": 1051,
+    "timeMonth": 1145,
+    "timeYear": 1068,
     "dailyMinutesDown": {
       "2024-08-04": 36,
       "2024-04-10": 854
@@ -26,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/demo.bigdigital.ca.ico",
     "slug": "event-sector-api",
     "status": "down",
-    "uptime": "70.60%",
+    "uptime": "70.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "35.52%",
+    "uptimeYear": "35.29%",
     "time": 179,
-    "timeDay": 131,
-    "timeWeek": 146,
+    "timeDay": 128,
+    "timeWeek": 148,
     "timeMonth": 159,
-    "timeYear": 166,
+    "timeYear": 165,
     "dailyMinutesDown": {
-      "2024-09-23": 252,
+      "2024-09-24": 18,
+      "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
@@ -300,18 +301,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/homehardware.bigdigital.ca.ico",
     "slug": "home-hardware-api",
     "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "93.03%",
-    "uptimeWeek": "99.00%",
-    "uptimeMonth": "99.77%",
-    "uptimeYear": "99.98%",
+    "uptime": "99.88%",
+    "uptimeDay": "9.28%",
+    "uptimeWeek": "87.04%",
+    "uptimeMonth": "97.02%",
+    "uptimeYear": "99.75%",
     "time": 169,
-    "timeDay": 208,
+    "timeDay": 202,
     "timeWeek": 165,
-    "timeMonth": 163,
+    "timeMonth": 162,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-09-23": 100
+      "2024-09-24": 18,
+      "2024-09-23": 1288
     }
   },
   {
@@ -326,8 +328,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 101,
-    "timeWeek": 133,
+    "timeDay": 141,
+    "timeWeek": 138,
     "timeMonth": 151,
     "timeYear": 160,
     "dailyMinutesDown": {}
@@ -338,18 +340,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/kia-bessada.bigdigital.ca.ico",
     "slug": "kia-bessada-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.90%",
+    "uptimeDay": "16.24%",
+    "uptimeWeek": "88.03%",
+    "uptimeMonth": "97.25%",
+    "uptimeYear": "99.77%",
     "time": 168,
-    "timeDay": 113,
+    "timeDay": 116,
     "timeWeek": 141,
     "timeMonth": 156,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2024-09-23": 0
+      "2024-09-24": 18,
+      "2024-09-23": 1188
     }
   },
   {
@@ -364,9 +367,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 158,
-    "timeDay": 105,
-    "timeWeek": 141,
-    "timeMonth": 151,
+    "timeDay": 129,
+    "timeWeek": 138,
+    "timeMonth": 152,
     "timeYear": 149,
     "dailyMinutesDown": {}
   },
@@ -387,7 +390,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-23": 252,
+      "2024-09-24": 18,
+      "2024-09-23": 1440,
       "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
@@ -750,8 +754,7 @@
       "2023-09-29": 1440,
       "2023-09-28": 1440,
       "2023-09-27": 1440,
-      "2023-09-26": 1440,
-      "2023-09-25": 1440
+      "2023-09-26": 1440
     }
   }
 ]
