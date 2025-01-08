@@ -1,7 +1,7 @@
 url: https://bigdigital.ca
-status: up
-code: 200
-responseTime: 2494
-lastUpdated: 2025-01-07T23:01:29.199Z
+status: down
+code: 504
+responseTime: 16109
+lastUpdated: 2025-01-08T15:39:34.967Z
 startTime: 2022-07-11T18:38:28.000Z
 generator: Upptime <https://github.com/upptime/upptime>
