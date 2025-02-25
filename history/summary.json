@@ -4,19 +4,20 @@
     "url": "https://bigdigital.ca",
     "icon": "https://icons.duckduckgo.com/ip3/bigdigital.ca.ico",
     "slug": "big-digital-website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.52%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.26%",
+    "uptimeDay": "99.14%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.23%",
     "uptimeYear": "99.43%",
-    "time": 1363,
-    "timeDay": 1343,
-    "timeWeek": 1630,
-    "timeMonth": 1630,
+    "time": 1365,
+    "timeDay": 1398,
+    "timeWeek": 1608,
+    "timeMonth": 1625,
     "timeYear": 1452,
     "dailyMinutesDown": {
-      "2025-02-24": 1,
+      "2025-02-25": 8,
+      "2025-02-24": 4,
       "2025-01-31": 326,
       "2025-01-09": 1294,
       "2025-01-08": 500,
@@ -41,7 +42,8 @@
     "timeMonth": 0,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-02-24": 1436,
+      "2025-02-25": 9,
+      "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
@@ -404,8 +406,7 @@
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
-      "2024-02-27": 1440,
-      "2024-02-26": 1440
+      "2024-02-27": 1440
     }
   },
   {
@@ -443,7 +444,8 @@
     "timeMonth": 0,
     "timeYear": 162,
     "dailyMinutesDown": {
-      "2025-02-24": 1436,
+      "2025-02-25": 9,
+      "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
@@ -606,7 +608,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.homehardware.bigdigital.ca.ico",
     "slug": "home-hardware-app",
     "status": "down",
-    "uptime": "89.35%",
+    "uptime": "89.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -617,7 +619,8 @@
     "timeMonth": 0,
     "timeYear": 155,
     "dailyMinutesDown": {
-      "2025-02-24": 1437,
+      "2025-02-25": 9,
+      "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
@@ -739,7 +742,8 @@
     "timeMonth": 0,
     "timeYear": 161,
     "dailyMinutesDown": {
-      "2025-02-24": 1437,
+      "2025-02-25": 9,
+      "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
@@ -902,7 +906,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/app.kia-bessada.bigdigital.ca.ico",
     "slug": "kia-bessada-app",
     "status": "down",
-    "uptime": "89.35%",
+    "uptime": "89.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -913,7 +917,8 @@
     "timeMonth": 0,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2025-02-24": 1437,
+      "2025-02-25": 9,
+      "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
@@ -1035,7 +1040,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-24": 1437,
+      "2025-02-25": 9,
+      "2025-02-24": 1440,
       "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
@@ -1398,8 +1404,7 @@
       "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
-      "2024-02-27": 1440,
-      "2024-02-26": 1440
+      "2024-02-27": 1440
     }
   }
 ]
