@@ -7,18 +7,6 @@ sites:
     url: https://bigdigital.tech
   - name: Big Digital Admin Console
     url: https://admin.bigdigital.tech
-  - name: Event Sector App
-    url: https://staging.demo.bigdigital.ca/real-time-emergency-messaging
-  - name: Home Hardware API
-    url: https://homehardware.bigdigital.ca/collections
-  - name: Home Hardware App
-    url: https://app.homehardware.bigdigital.ca/content
-  - name: Kia Bessada API
-    url: https://kia-bessada.bigdigital.ca/collections
-  - name: Kia Bessada App
-    url: https://app.kia-bessada.bigdigital.ca
-  - name: Campus Suites API
-    url: https://campus-suite.greenfeeds.ca/collections
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
