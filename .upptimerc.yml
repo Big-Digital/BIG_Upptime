@@ -4,21 +4,11 @@ repo: BIG_Upptime # The name of this repository
 
 sites:
   - name: Big Digital Website
-    url: https://bigdigital.ca
-  - name: Event Sector API
-    url: https://demo.bigdigital.ca/collections
-  - name: Event Sector App
-    url: https://staging.demo.bigdigital.ca/real-time-emergency-messaging
-  - name: Home Hardware API
-    url: https://homehardware.bigdigital.ca/collections
-  - name: Home Hardware App
-    url: https://app.homehardware.bigdigital.ca/content
-  - name: Kia Bessada API
-    url: https://kia-bessada.bigdigital.ca/collections
-  - name: Kia Bessada App
-    url: https://app.kia-bessada.bigdigital.ca
-  - name: Campus Suites API
-    url: https://campus-suite.greenfeeds.ca/collections
+    url: https://bigdigital.tech
+ - name: Big Digital Admin Console
+    url: https://admin.bigdigital.tech
+ - name: Courage Films
+    url: https://couragefilms.ca
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
