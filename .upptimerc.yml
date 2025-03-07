@@ -4,7 +4,7 @@ repo: BIG_Upptime # The name of this repository
 
 sites:
   - name: Big Digital Website
-    url: https://bigdigital.tecv
+    url: https://bigdigital.tech
   - name: Big Digital Admin Console
     url: https://admin.bigdigital.tech
   - name: Event Sector App
